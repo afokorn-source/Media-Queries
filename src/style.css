@@ -130,8 +130,8 @@ Do not delete any of the above code. */
 display: none;
 background-color: #3498db;
 position: absolute;
-top: 50%;
-right: 100%
+top: 100%;
+right: 0;
 padding: 10px 0px;
 width: 150px;
 }
